@@ -1,6 +1,9 @@
 # start-web-project
 web project starter
 
+[![Build Status](https://travis-ci.org/suxxus/start-web-project.svg?branch=master)](https://travis-ci.org/suxxus/start-web-project)
+[![Dependency Status](https://gemnasium.com/badges/github.com/suxxus/start-web-project.svg)](https://gemnasium.com/github.com/suxxus/start-web-project)
+
 ## Features ###
 * npm scripts
 * node express server
