@@ -22,19 +22,19 @@ npm install
 * start coding
 
 ## Scripts
-The `package.json` file comes with the following scripts
+The `package.json` file comes with the following scripts.
 
 `npm run <name of script>`
 
-`start`: launch a server at port 8080  with the aplication
+`start`: launch a server at port 8080  with the aplication.
 
 `lint`: lint all js code.
 
 `watch`: start watching files at ./src, lint tasks.
 
-`browsersync`: launch a dev server(http://localhost:3000) providing the app at ./build, start watching files at ./src. reload dev server on changes. Proxy to http://localhost:4000  
+`browsersync`: launch a dev server(http://localhost:3000) providing the app at ./build, start watching files at ./src. reload dev server on changes. Proxy to http://localhost:4000.
 
-`freddie`: Launch the server from the document root of your project. Check your project at http://localhost:4000 
+`freddie`: Launch the server from the document root of your project. Check your project at http://localhost:4000.
 
 `build`: generates the compiled app at ./build directory.
 
