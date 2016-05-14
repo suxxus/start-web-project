@@ -3,7 +3,6 @@ node_js:
   - "node"
 script:
   - npm run lint
-  - npm run coverall
   - npm run check
 
 # whitelist
